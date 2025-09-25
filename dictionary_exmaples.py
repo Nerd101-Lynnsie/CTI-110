@@ -1,19 +1,4 @@
-'''
-###String Formatting
-
-camaro_age = 18.21
-print(f"{'Camaro':^15} {camaro_age}")
-
-prius_age = 52.36
-print(f"{'Prius':^15} {prius_age}")
-
-model_s_age = 110
-print(f"{'Model S':^15} {model_s_age}")
-
-silverado_age = 26
-print(f"{'Silverado':^15} {silverado_age}")
-'''
-
+###Practicing Dictionaries in Python
 ###Create a dictionary
 students = {101:"Trey", 321:"Ray", 638:"AJ"}
 print()
